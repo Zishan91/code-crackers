@@ -1,3 +1,3 @@
 # code-crackers
 
-Name= Zishan Shaikh Learning AIML from Sanjay Ghodawat University.
+Name= Zishan Shaikh Studing AIML from Sanjay Ghodawat University.
